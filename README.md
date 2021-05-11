@@ -6,16 +6,7 @@ of my favorite projects in my portfolio.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hamimmia&label=Profile%20views&color=0e75b6&style=flat" alt="hamimmia" /> 
 <a href="https://github.com/hamimmia/github-profile-readme-generator/fork" target="blank">
-<img src="https://img.shields.io/github/forks/hamimmia/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
-</a>
-<a href="https://github.com/hamimmia/github-profile-readme-generator/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/hamimmia/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
-</a>
-<a href="https://github.com/hamimmia/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/hamimmia/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
-</a>
-<a href="https://github.com/hamimmia/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/hamimmia/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+
 </a>
 </p>
 
