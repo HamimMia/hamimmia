@@ -20,11 +20,14 @@ of my favorite projects in my portfolio.</p>
 </p>
 
 </br></br>
+What's Going on?
+<h1 align="left"></h1>
+
 - 🌱 I’m currently learning **Java Framework Spring Boot**
 - 👯 I’m looking to collaborate on **Any Java Project**
 - 💬 Ask me about **Core Java, Spring Framework, Angular JS,**
 - 📫 How to reach me **hamimmia@hotmail.com**
-- 📄 Know about my experiences [https://hamimminhas.com/](https://hamimminhas.com/)
+- 📄 Know about my experiences [hamimminhas.com](hamimminhas.com)
 - ⚡ Fun fact **I look up to…**
 
 </br></br>
@@ -53,9 +56,9 @@ of my favorite projects in my portfolio.</p>
 
 <table align="center">
   <tr>
-    <th>Author</th>
-     <th>Project</th>
-    <th> 🛠️ Languages and Tools</th>
+    <th>:octocat: Author</th>
+     <th>📖 Project</th>
+    <th>🛠️ Languages and Tools</th>
   </tr>
   <tr>
     <td><a target="_blank" href="https://github.com/HamimMia">Hamim Mia</a></td>
@@ -80,6 +83,5 @@ of my favorite projects in my portfolio.</p>
 
 [![Praveen's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamimmia&theme=xcode)](https://git.io/hamimmia) 
 
-</br></br>
-
-
+</br>
+<p align="center">© 2021 <a href="https://github.com/HamimMia">Hamim Mia</a></p>
