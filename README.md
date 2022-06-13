@@ -36,6 +36,7 @@ of my favorite projects in my portfolio.</p>
 </p>
 
 </br></br>
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 What's Going on?
 <h1 align="left"></h1>
 
