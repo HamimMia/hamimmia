@@ -34,7 +34,7 @@ of my favorite projects in my portfolio.</p>
 </p>
 </br>
 </br></br>
-<img align="right" alt="GIF" src="http://hamimminhas.com/images/hamim.png" width="300" height="300" />
+<img align="right" alt="GIF" src="http://hamimminhas.com/Github.png" width="300" height="300" />
 What's Going on?
 <h1 align="left"></h1>
 
