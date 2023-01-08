@@ -46,7 +46,7 @@ What's Going on?
 - ⚡ Fun fact **I look up to…**
 </br></br></br></br></br>
 </br><p align="center"> <img src="https://komarev.com/ghpvc/?username=hamimmia&label=Profile%20views&color=0e75b6&style=flat" alt="hamimmia" /> 
-<a href="https://github.com/hamimmia/github-profile-readme-generator/fork" target="blank"></br>
+<a href="https://avatars.githubusercontent.com/u/61078087?v=4" target="blank"></br>
 
 <div align="center">
 <p align="center">🛠 Tools & Technology</p>
